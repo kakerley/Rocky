@@ -2,5 +2,6 @@
 "name": "Rocky Mountain Pool",
 "description": "Cardano staking in the foothills of the Canadian Rockies",
 "ticker": "ROCKY",
-"homepage": "https://stakecardano.net"
+"homepage": "https://stakecardano.net",
+"extended": "https://raw.githubusercontent.com/kakerley/Rocky/master/ext.json"
 }
