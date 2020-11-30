@@ -4,14 +4,6 @@
         "social": {
             "twitter_handle": "RockyStaking",
             "telegram_handle": "Rocky_Mountain_Staking"
-        },
-        "company": {
-            "name": "Rocky Mountain Staking",
-            "city": "Calgary",
-            "country": "Canada"
         }
-    },
-    "my-pool-ids": {
-        "0": "f4762ca1dce3c32c0d7a7e6d9f8a54bf40338e99ae5f3ad0172c9a2f"
     }
 }
