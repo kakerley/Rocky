@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/kakerley/Rocky/raw/master/Rocky1.png",
-        "url_png_logo": "https://github.com/kakerley/Rocky/raw/master/Rocky.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/kakerley/Rocky/master/Rocky1.png",
+        "url_png_logo": "https://raw.githubusercontent.com/kakerley/Rocky/master/Rocky.png",
         "location": "Calgary, Canada",
         "social": {
             "twitter_handle": "RockyStaking",
