@@ -3,5 +3,5 @@
 "description": "Cardano staking in the foothills of the Canadian Rockies",
 "ticker": "ROCKY",
 "homepage": "https://stakecardano.net",
-"extended": "https://raw.githubusercontent.com/kakerley/Rocky/master/ext.json"
+"extended": "https://raw.githubusercontent.com/kakerley/Rocky/master/ex.json"
 }
